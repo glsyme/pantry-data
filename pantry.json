@@ -448,22 +448,7 @@
       "polyFat": null,
       "carb": 16.5,
       "fibre": 6.4
-    },
-    {
-      "name": "ZZ SYNC PROBE",
-      "category": "Other",
-      "serveDesc": "test",
-      "serveG": 1.0,
-      "cal": 0.0,
-      "protein": 0.0,
-      "fat": 0.0,
-      "satFat": 0.0,
-      "monoFat": null,
-      "polyFat": null,
-      "carb": 0.0,
-      "fibre": 0.0,
-      "notes": "temp mirror-sync probe"
     }
   ],
-  "updatedAt": "2026-07-27T21:08:52"
+  "updatedAt": "2026-07-27T21:08:56"
 }
