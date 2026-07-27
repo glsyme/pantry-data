@@ -448,21 +448,7 @@
       "polyFat": null,
       "carb": 16.5,
       "fibre": 6.4
-    },
-    {
-      "name": "ZZ PROBE2",
-      "category": "Other",
-      "serveDesc": "t",
-      "serveG": 1.0,
-      "cal": 0.0,
-      "protein": 0.0,
-      "fat": 0.0,
-      "satFat": 0.0,
-      "monoFat": null,
-      "polyFat": null,
-      "carb": 0.0,
-      "fibre": 0.0
     }
   ],
-  "updatedAt": "2026-07-27T22:16:29"
+  "updatedAt": "2026-07-27T22:16:31"
 }
