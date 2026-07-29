@@ -448,7 +448,65 @@
       "polyFat": null,
       "carb": 16.5,
       "fibre": 6.4
+    },
+    {
+      "name": "Chobani Natural Greek Yoghurt",
+      "category": "Dairy & eggs",
+      "serveDesc": "160g (1 serve)",
+      "serveG": 160.0,
+      "cal": 86.0,
+      "protein": 8.6,
+      "fat": 4.0,
+      "satFat": 2.6,
+      "monoFat": null,
+      "polyFat": null,
+      "carb": 3.9,
+      "fibre": 0.0
+    },
+    {
+      "name": "Frozen Blueberries (Coles)",
+      "category": "Fruit",
+      "serveDesc": "1 cup (150g)",
+      "serveG": 150.0,
+      "cal": 49.0,
+      "protein": 0.5,
+      "fat": 0.0,
+      "satFat": 0.0,
+      "monoFat": null,
+      "polyFat": null,
+      "carb": 9.9,
+      "fibre": 3.6
+    },
+    {
+      "name": "Herb Crumbed Chicken Tenderloins (Woolworths)",
+      "category": "Protein",
+      "serveDesc": "approx 100g (2-3 pieces)",
+      "serveG": 100.0,
+      "cal": 195.0,
+      "protein": 16.0,
+      "fat": 10.2,
+      "satFat": 1.0,
+      "monoFat": null,
+      "polyFat": null,
+      "carb": 9.0,
+      "fibre": 1.4,
+      "notes": "Crumbed/coated product \u2014 carbs from breadcrumb coating, not a plain protein source. Sodium 283mg/100g (not a tracked field)."
+    },
+    {
+      "name": "Skin Off Salmon Fillets (Woolworths)",
+      "category": "Protein",
+      "serveDesc": "1 fillet (115g)",
+      "serveG": 115.0,
+      "cal": 231.0,
+      "protein": 20.5,
+      "fat": 16.7,
+      "satFat": 3.8,
+      "monoFat": 7.1,
+      "polyFat": 4.3,
+      "carb": 0.5,
+      "fibre": 0.0,
+      "notes": "High omega-3: 2190mg/100g total (EPA 816mg, DHA 1000mg) \u2014 not tracked fields, recorded here for reference."
     }
   ],
-  "updatedAt": "2026-07-27T22:16:31"
+  "updatedAt": "2026-07-29T22:18:58"
 }
