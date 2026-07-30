@@ -591,7 +591,92 @@
       "carb": 11.4,
       "fibre": 9.2,
       "notes": "High sodium: 3300mg/100g \u2014 not a tracked field, worth remembering since a serve is typically small (5g) but frequent."
+    },
+    {
+      "name": "Ritz Breakz",
+      "category": "Other",
+      "serveDesc": "31.3g (5 biscuits)",
+      "serveG": 31.3,
+      "cal": 464.0,
+      "protein": 8.3,
+      "fat": 18.1,
+      "satFat": 1.6,
+      "monoFat": null,
+      "polyFat": null,
+      "carb": 64.5,
+      "fibre": null,
+      "notes": "Fibre not disclosed on this label (no Dietary Fibre row) \u2014 left as null rather than assumed zero. Sodium 589mg/100g (not a tracked field)."
+    },
+    {
+      "name": "Barbecue Shapes (Arnott's)",
+      "category": "Other",
+      "serveDesc": "25g serve",
+      "serveG": 25.0,
+      "cal": 490.0,
+      "protein": 7.5,
+      "fat": 22.4,
+      "satFat": 5.3,
+      "monoFat": null,
+      "polyFat": null,
+      "carb": 62.9,
+      "fibre": 3.4
+    },
+    {
+      "name": "Pizza Shapes (Arnott's)",
+      "category": "Other",
+      "serveDesc": "25g serve",
+      "serveG": 25.0,
+      "cal": 495.0,
+      "protein": 7.9,
+      "fat": 23.1,
+      "satFat": 5.6,
+      "monoFat": null,
+      "polyFat": null,
+      "carb": 61.8,
+      "fibre": 3.3
+    },
+    {
+      "name": "Honey Tiny Teddies (Arnott's)",
+      "category": "Other",
+      "serveDesc": "25g serve",
+      "serveG": 25.0,
+      "cal": 452.0,
+      "protein": 5.6,
+      "fat": 14.2,
+      "satFat": 7.9,
+      "monoFat": null,
+      "polyFat": null,
+      "carb": 73.5,
+      "fibre": 2.5
+    },
+    {
+      "name": "Chocolate Tiny Teddies (Arnott's)",
+      "category": "Other",
+      "serveDesc": "25g serve",
+      "serveG": 25.0,
+      "cal": 435.0,
+      "protein": 6.4,
+      "fat": 12.5,
+      "satFat": 6.0,
+      "monoFat": null,
+      "polyFat": null,
+      "carb": 71.3,
+      "fibre": 4.7
+    },
+    {
+      "name": "Choc Chip Tiny Teddies (Arnott's)",
+      "category": "Other",
+      "serveDesc": "25g serve",
+      "serveG": 25.0,
+      "cal": 454.0,
+      "protein": 5.8,
+      "fat": 14.5,
+      "satFat": 7.6,
+      "monoFat": null,
+      "polyFat": null,
+      "carb": 72.9,
+      "fibre": 3.1
     }
   ],
-  "updatedAt": "2026-07-30T21:16:21"
+  "updatedAt": "2026-07-30T21:23:29"
 }
