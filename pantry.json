@@ -520,7 +520,78 @@
       "polyFat": null,
       "carb": 39.1,
       "fibre": 7.4
+    },
+    {
+      "name": "Peanut Butter, Smooth (Bega)",
+      "category": "Nuts & seeds",
+      "serveDesc": "1 tbsp (22g)",
+      "serveG": 22.0,
+      "cal": 626.0,
+      "protein": 23.9,
+      "fat": 53.0,
+      "satFat": 10.5,
+      "monoFat": 39.5,
+      "polyFat": 2.9,
+      "carb": 11.4,
+      "fibre": 7.0
+    },
+    {
+      "name": "Almond Butter (Mayver's)",
+      "category": "Nuts & seeds",
+      "serveDesc": "1 tbsp (20g)",
+      "serveG": 20.0,
+      "cal": 595.0,
+      "protein": 22.0,
+      "fat": 52.6,
+      "satFat": 4.0,
+      "monoFat": 33.8,
+      "polyFat": 12.7,
+      "carb": 7.5,
+      "fibre": 11.8
+    },
+    {
+      "name": "Hazelnut & Cashew Butter (Mayver's)",
+      "category": "Nuts & seeds",
+      "serveDesc": "1 tbsp (20g)",
+      "serveG": 20.0,
+      "cal": 605.0,
+      "protein": 15.5,
+      "fat": 51.3,
+      "satFat": 5.0,
+      "monoFat": 36.4,
+      "polyFat": 7.7,
+      "carb": 18.5,
+      "fibre": 10.0
+    },
+    {
+      "name": "Nutella",
+      "category": "Other",
+      "serveDesc": "1 tbsp (15g)",
+      "serveG": 15.0,
+      "cal": 533.0,
+      "protein": 6.3,
+      "fat": 30.9,
+      "satFat": 10.6,
+      "monoFat": null,
+      "polyFat": null,
+      "carb": 57.5,
+      "fibre": 0.0
+    },
+    {
+      "name": "Vegemite",
+      "category": "Herbs, spices & condiments",
+      "serveDesc": "1 tsp (5g)",
+      "serveG": 5.0,
+      "cal": 178.0,
+      "protein": 24.7,
+      "fat": 1.6,
+      "satFat": 1.6,
+      "monoFat": null,
+      "polyFat": null,
+      "carb": 11.4,
+      "fibre": 9.2,
+      "notes": "High sodium: 3300mg/100g \u2014 not a tracked field, worth remembering since a serve is typically small (5g) but frequent."
     }
   ],
-  "updatedAt": "2026-07-30T11:36:07"
+  "updatedAt": "2026-07-30T21:16:21"
 }
