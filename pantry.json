@@ -506,7 +506,21 @@
       "carb": 0.5,
       "fibre": 0.0,
       "notes": "High omega-3: 2190mg/100g total (EPA 816mg, DHA 1000mg) \u2014 not tracked fields, recorded here for reference."
+    },
+    {
+      "name": "Wholemeal Bread (Tip Top)",
+      "category": "Grains & carbs",
+      "serveDesc": "2 slices (74g)",
+      "serveG": 74.0,
+      "cal": 234.0,
+      "protein": 9.5,
+      "fat": 3.1,
+      "satFat": 0.5,
+      "monoFat": null,
+      "polyFat": null,
+      "carb": 39.1,
+      "fibre": 7.4
     }
   ],
-  "updatedAt": "2026-07-29T22:18:58"
+  "updatedAt": "2026-07-30T11:36:07"
 }
